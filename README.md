@@ -1,6 +1,10 @@
-Wiki with some of my random testing notes, no garuntee they'll work for you or be accurate.
+Wiki with some of my testing notes, no garuntee they'll work for you or be accurate.
 
 GLHF
+
+
+
+
 
 Bypass CrowdStrike
 wmic product where "description='CrowdStrike Sensor Platform'" Uninstall
